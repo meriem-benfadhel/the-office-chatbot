@@ -1,2 +1,2 @@
-# michael-scott-chatbot
-a chat bot that talks like Michael Scott , the main character in 'The office' TV show  
+# the-office-chatbot
+Talk to the main characters of the popular TV show 'the office' Michael, Jim and Pam. 
